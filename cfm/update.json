@@ -1,0 +1,9 @@
+{
+    "homepage": "https://mrcrayfish.com/mods?id=cfm",
+    "1.14.4": {
+        "7.0.0-pre11": ""
+    },
+    "promos": {
+        "1.14.4-latest": "7.0.0-pre11"
+    }
+}
