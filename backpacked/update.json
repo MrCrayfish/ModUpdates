@@ -1,0 +1,10 @@
+{
+    "homepage": "https://mrcrayfish.com/mods?id=backpacked",
+    "promos": {
+        "1.12.2-latest": "1.4.1",
+        "1.14.4-latest": "1.4.0",
+        "1.15.1-latest": "1.4.0",
+        "1.15.2-latest": "1.4.1",
+        "1.16.1-latest": "1.4.3"
+    }
+}
