@@ -1,0 +1,9 @@
+{
+    "homepage": "https://mrcrayfish.com/mods?id=vehicle",
+    "promos": {
+        "1.12.2-latest": "0.44.1",
+        "1.14.4-latest": "0.44.0",
+        "1.15.1-latest": "0.42.4",
+        "1.15.2-latest": "0.44.0"
+    }
+}
